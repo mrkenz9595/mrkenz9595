@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hi there 👋
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=mrkenz9595)
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mrkenz9595&show_icons=true&include_all_commits=true&theme=radical&hide_border=true"/></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrkenz9595&layout=compact&theme=radical&hide_border=true" /></a> |
+| ------------- | ------------- |
